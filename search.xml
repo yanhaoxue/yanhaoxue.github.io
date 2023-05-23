@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Github免费图床+PicGo+jsdelivr免费加速</title>
+    <url>/2023/05/11/Github%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A+PicGo+jsdelivr%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F/</url>
+    <content><![CDATA[<h2 id="1-安装PicGo"><a href="#1-安装PicGo" class="headerlink" title="1.安装PicGo"></a>1.安装PicGo</h2><p><strong>此处不做赘述，可以参考网上其他**</strong>PicGo**安装教程</p>
+<h2 id="2-PicGo中GitHub图床配置"><a href="#2-PicGo中GitHub图床配置" class="headerlink" title="2.PicGo中GitHub图床配置"></a>2.PicGo中GitHub图床配置</h2><p><img src="https://cdn.jsdelivr.net/gh/yanhaoxue/image-host/20230511225944.png" alt=""></p>
+<p><strong>内容说明</strong></p>
+<p><strong>设定仓库名</strong>：填写你的GitHub用户名和仓库名，例如：wangdefa/imgHost</p>
+<p><strong>设定分支名</strong>：你的GitHub图床仓库的分支名称（$\color{red} {温馨提示：仓库需要是公开的呦！} $）</p>
+<p><strong>设定Token</strong>：GitHub token，token获取方式，可以自行搜索一下下啦</p>
+<p><strong>设定存储路径</strong>：非必填，图片在仓库中的存储路径</p>
+<p><strong>设定自定义域名</strong>：使用下面的写法可以使用jsdelivr加速你的图片哦！原来不能访问或者访问缓慢的图片就可以飞速加载鸟！</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://cdn.jsdelivr.net/gh/用户名/仓库名</span><br></pre></td></tr></table></figure>
+<h2 id="3-撒花"><a href="#3-撒花" class="headerlink" title="3.撒花"></a>3.撒花</h2><p>好啦，可以愉快的上传图片了！</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
+        <tag>jsdelivr</tag>
+        <tag>PicGo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github pages+Actions自动部署</title>
+    <url>/2023/04/28/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E6%88%90%E5%8A%9F%EF%BC%8C%E5%8F%AD%E5%AE%B9%E6%98%93%E5%91%80/</url>
+    <content><![CDATA[<h1 id="Github-pages-Actions自动部署"><a href="#Github-pages-Actions自动部署" class="headerlink" title="Github pages+Actions自动部署"></a>Github pages+Actions自动部署</h1><div class="tip "><p>初始化hexo</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>生成静态文件</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>启动hexo</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>安装部署插件</p>
+</div>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>安装主题</p>
+</div>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm i hexo-theme-butterfly</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>安装主题渲染插件</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>安装标签外挂插件</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">npm install hexo-butterfly-tag-plugins-plus --save</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>考虑到hexo自带的markdown渲染插件hexo-renderer-marked与外挂标签语法的兼容性较差，建议您将其替换成hexo-renderer-kramed</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-renderer-marked --save</span><br><span class="line">npm install hexo-renderer-kramed --save</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>青海湖三日游</title>
+    <url>/2023/05/23/%E9%9D%92%E6%B5%B7%E6%B9%96%E4%B8%89%E6%97%A5%E6%B8%B8/</url>
+    <content><![CDATA[<p>水天一色，甚是美丽！</p>
+<p><img src="https://cdn.jsdelivr.net/gh/yanhaoxue/image-host/%E8%8C%B6%E5%8D%A1%E7%9B%90%E6%B9%96.jpg" alt="茶卡盐湖"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/yanhaoxue/image-host/%E9%9D%92%E6%B5%B7%E6%B9%96.jpg" alt="青海湖"></p>
+]]></content>
+  </entry>
+</search>
