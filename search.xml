@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Github免费图床+PicGo+jsdelivr免费加速</title>
+    <url>/2023/05/11/Github%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A+PicGo+jsdelivr%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F/</url>
+    <content><![CDATA[<p>glmos-code-explain## 1.安装PicGo</p>
+<p><strong>此处不做赘述，可以参考网上其他**</strong>PicGo**安装教程</p>
+<h2 id="2-PicGo中GitHub图床配置"><a href="#2-PicGo中GitHub图床配置" class="headerlink" title="2.PicGo中GitHub图床配置"></a>2.PicGo中GitHub图床配置</h2><p><img src="https://cdn.jsdelivr.net/gh/yanhaoxue/image-host/20230511225944.png" alt=""></p>
+<p><strong>内容说明</strong></p>
+<p><strong>设定仓库名</strong>：填写你的GitHub用户名和仓库名，例如：wangdefa/imgHost</p>
+<p><strong>设定分支名</strong>：你的GitHub图床仓库的分支名称（$\color{red} {温馨提示：仓库需要是公开的呦！} $）</p>
+<p><strong>设定Token</strong>：GitHub token，token获取方式，可以自行搜索一下下啦</p>
+<p><strong>设定存储路径</strong>：非必填，图片在仓库中的存储路径</p>
+<p><strong>设定自定义域名</strong>：使用下面的写法可以使用jsdelivr加速你的图片哦！原来不能访问或者访问缓慢的图片就可以飞速加载鸟！</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://cdn.jsdelivr.net/gh/用户名/仓库名</span><br></pre></td></tr></table></figure>
+<h2 id="3-撒花"><a href="#3-撒花" class="headerlink" title="3.撒花"></a>3.撒花</h2><p>好啦，可以愉快的上传图片了！</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>Github</tag>
+        <tag>jsdelivr</tag>
+        <tag>PicGo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>当你跳槽之后</title>
+    <url>/2023/08/02/%E5%BD%93%E4%BD%A0%E8%B7%B3%E6%A7%BD%E4%B9%8B%E5%90%8E/</url>
+    <content><![CDATA[<p><strong>背景：本人一名程序猿，喜欢coding，喜欢music，喜欢game！</strong></p>
+<h1 id="跳槽前"><a href="#跳槽前" class="headerlink" title="跳槽前"></a>跳槽前</h1><p>&emsp;&emsp;在一家外包公司工作，给甲方驻场，干了两年，总体来说干的不错，但是为什么会想到跳槽呢？说来话长……<br>刚开始项目没那么紧张的时候，工作也比较轻松，每天学习学习业务相关的知识，再就是搭建一下开发环境，倒是也乐趣所在。虽然偶尔总监会非要拉着你讲点知识，体现他的博学多识，但是也无伤大雅，毕竟他讲的还是有点道理（不是很多）。</p>
+<p>&emsp;&emsp;后来，项目进入了开发阶段，一下子变得忙了起来，晚上从6点下班变为了9点下班，一两个月的工作量，要赶在两周内完成，那段时间确实是过的很充实。白天和小伙伴沟通，解决问题，写代码，晚上回去也没有什么太多的休息时间，下班回家10点了，洗漱一下，看看直播，上床睡觉。关键是，睡觉之前，满脑子都是这个功能该怎么实现，明天我要完成哪些功能，能不能超计划完成之类的东西，好像有几天晚上做梦都是写代码的事情。虽如此，但充实，犹开心！</p>
+<p>&emsp;&emsp;好景不长，大概过了两个月，慢慢的，基本框架已经完成，开始了完善需求阶段。甲方从城市搬到了海边，管的是越来越宽，把控项目进度，这无可厚非，但是管我们的考勤，管我们的请假，这就有点离谱了。早上迟到了要给公司发邮件说态度不端正，配合不到位，晚上不到9点不能走，关键是到了9点还得等着甲方先走，但凡你早早走了，那又是工作态度有问题，接下来，更离谱的事情来了，甲方说周六必须加班！！！周六加班，快乐直接消失，一周没有了休息放松时间，周日一天，觉都没补好呢，又开始上班了，从此真正的过上了别人以为的程序员的996生活。（小插曲：项目经理想了个办法让大家不那么累，周六实行轮两班制，第一周周六来，第二周周六就可以休息一下，但是甲方的某个领导，专门找茬，周六过来说：”你们公司其他人呢，怎么就来了这么几个？活都干完了吗？“这一招，属实没想到，打的我们是措手不及，不仅管上了上下班时间，也管上了出勤人员，这么下去，怕是要管上人员招聘，管上发工资，管上公司股票了哈！以至于最后轮班也没实行下去，就还是每周六都得加班喽！）以上呢，还没有最离谱，最离谱的事情，也就是压倒骆驼的最后一根稻草，来了。项目上线前一个月，甲方的一个领导通知说：“接下来的一个月，不允许任何人请假！“听到这个消息，心理防线直接崩塌，平时请假，都是跟公司请，跟项目经理请，第一次听说请假还要甲方批准的，一个同事正好订婚去请假，不给请，难道说，为了项目上线，这个婚不结了吗？最后给请了一天的假，属实是小刀揦屁股，开了眼了！</p>
+<p>&emsp;&emsp;大家可能会想，为什么不怼甲方，大家是合作关系，没必要这么卑微，这其中，原因众多，最主要的应该就是这个甲方，太甲方了吧，只要我们敢怼，甲方就敢把所有项目延期的锅甩到你身上，迫于淫威，敢怒不敢言！</p>
+<p>&emsp;&emsp;慢慢的，萌生出了跳槽的想法，工作干的不顺心，这种想法愈发强烈，就开始不断地投简历，不断地面试，想逃离这个是非之地，逃离这些不公平对待。希望能找一个就算加班，也没这么严重的公司；想找一个，有归属感的公司。也面了有三四家吧，最后面到了一家国企，说实话，心里还是很开心，毕竟国企的福利待遇都好，而且是本地公司，对于自己安家稳定来说，有这很大的优势，可以长期发展下去，就这样，经过一周的思考，提出了离职！</p>
+<h1 id="跳槽时"><a href="#跳槽时" class="headerlink" title="跳槽时"></a>跳槽时</h1><p>&emsp;&emsp;提交申请以后，迎来了一个月时长的工作交接，虽然算不上技术大佬，项目也不是离了我就没法上线，但是也兢兢业业干了两年，负责着几个功能模块，还是要好好交接一下的。每天写一写交接文档，写一写开发记录，再记录一下避坑指南，虽说甲方让我很不爽，但不是公司的错，不是同事的错，能做好的还是尽量做好，不给后来的人挖坑。这样的状态持续了三周，在这三周里，过的倒是比较清闲些，整个人的精神状态也好了很多。让我加班，不好意思，我选择不加，我只做好我分内之事，都要离开了，不可能再为了甲方卖命了。（说真的，是卖命，不是工作，工作强度之大，难以形容，每天脖子疼，腰疼，浑身上下的不舒服，大致是整天在椅子上待9个多10个小时，中午就在行军简易床上休息导致的吧，身体上的累，自己心里可以安慰，心理上的累，任凭自己如何平常心，也治愈不了）</p>
+<p>&emsp;&emsp;以前，总想着在离职之前，把那些怼了我，让我不爽的的人都怼回去，让他知道我不是好惹的，留下他不可思议的眼神，然后再潇洒的离去，这是长久以来幻想的场景，但是，当我真的到了离开之前，却开始有一些舍不得和一些感慨，舍不得这里的同事，舍不得自己辛苦写的代码，舍不得已经非常熟悉的环境，也感慨时间过得好快，转眼已是两年，当然，更没有了那种怼人的想法和欲望，只觉得，应该好聚好散，没必要弄得大家都很尴尬，孑然而来，孑然而去，也许这才是结束这段工作最好的方式。</p>
+<p>&emsp;&emsp;一个月的交接时间，说快也快，说慢也慢，三周过去，最后一周，请了自己一直没有机会请的年假和司龄假（啊哈，凑起来才五天 =。=），准备好好休整一下，放松放松心情，再迎接下一段工作旅程。</p>
+<h1 id="跳槽后"><a href="#跳槽后" class="headerlink" title="跳槽后"></a>跳槽后</h1><p>&emsp;&emsp;经过一些调整后，去新公司报到了，然而，报到后却分配我去了其他岗位，并不是开发岗位，听消息说，开发团队被解散了。在新的岗位学习适应的那段时间，又重新审视了当初跳槽的原因，也问过自己很多次，有没有后悔，毕竟，做开发是自己的爱好兴趣，也是自己的未来发展方向，突然一下子换一个岗位，等于自己好几年的工作经验都派不上用场，自己的未来规划也被打乱了。其实，仔细想想，后悔了，也不后悔，后悔是因为待在原来的公司，可以继续干自己喜欢的开发，每天虽累，但是能做自己喜欢的工作，想来也很重要吧；不后悔是因为，当初既然铁了心要跳槽，那么肯定有自己必须跳槽的原因，现在想想这个原因，应该就是甲方各种的神奇操作，让我无心继续待下去，外包公司的没有归属感也占据着一大部分原因。</p>
+<p>&emsp;&emsp;如果你问我，现在再给我一次机会，还会不会跳，我想我的回答是：会！人生就是要不断地往前走，一味地回忆过去，并不是好的选择，也许我会更加慎重的审视自己，更加理性的判断跳槽带来的利弊，然后坚定自己的想法，做出最终的选择！</p>
+<h1 id="感慨"><a href="#感慨" class="headerlink" title="感慨"></a>感慨</h1><p>&emsp;&emsp;还是希望自己能做回一个code monkey，不仅干着自己喜欢的工作，也有了稳定的收入，理想状态总是难以达到的，未来，继续向期望的方向迈进！</p>
+<p>&emsp;&emsp;<strong>天生我材必有用,千金散尽还复来！</strong><br>&emsp;&emsp;<strong>如果事与愿违，那么肯定是命运另有安排！</strong></p>
+]]></content>
+      <categories>
+        <category>感悟</category>
+      </categories>
+      <tags>
+        <tag>跳槽</tag>
+        <tag>感慨</tag>
+        <tag>工作</tag>
+        <tag>吐槽</tag>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github pages+Actions自动部署</title>
+    <url>/2023/04/28/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E6%88%90%E5%8A%9F%EF%BC%8C%E5%8F%AD%E5%AE%B9%E6%98%93%E5%91%80/</url>
+    <content><![CDATA[<h1 id="Github-pages-Actions自动部署"><a href="#Github-pages-Actions自动部署" class="headerlink" title="Github pages+Actions自动部署"></a>Github pages+Actions自动部署</h1><div class="tip "><p>初始化hexo</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>生成静态文件</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>启动hexo</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>安装部署插件</p>
+</div>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>安装主题</p>
+</div>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm i hexo-theme-butterfly</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>安装主题渲染插件</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>安装标签外挂插件</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">npm install hexo-butterfly-tag-plugins-plus --save</span><br></pre></td></tr></table></figure>
+<div class="tip "><p>考虑到hexo自带的markdown渲染插件hexo-renderer-marked与外挂标签语法的兼容性较差，建议您将其替换成hexo-renderer-kramed</p>
+</div>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-renderer-marked --save</span><br><span class="line">npm install hexo-renderer-kramed --save</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>青海湖三日游</title>
+    <url>/2023/05/05/%E9%9D%92%E6%B5%B7%E6%B9%96%E4%B8%89%E6%97%A5%E6%B8%B8/</url>
+    <content><![CDATA[<p>水天一色，甚是美丽！</p>
+<p><img src="https://cdn.jsdelivr.net/gh/yanhaoxue/image-host/%E8%8C%B6%E5%8D%A1%E7%9B%90%E6%B9%96.jpg" alt="茶卡盐湖"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/yanhaoxue/image-host/%E9%9D%92%E6%B5%B7%E6%B9%96.jpg" alt="青海湖"></p>
+]]></content>
+  </entry>
+</search>
